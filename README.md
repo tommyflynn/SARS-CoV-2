@@ -18,13 +18,13 @@ It is inconceivable that this pandemic will not leave the most vulnerable and op
 
 ## Repository Origin
 This repository was forked on April 10, 2020 from the _2019 Novel Coronavirus Visual Dashboard_ operated by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE) with support from ESRI Living Atlas Team and the Johns Hopkins University Applied Physics Lab (JHU APL), ©2020 Johns Hopkins University, all rights reserved.
-__All forked data, maps, and analyses in this repository are _stricly educational and academic_.__
+_All forked data, maps, and analyses in this repository are being used **stricly for educational and academic purposes**._
 
-### JHU CSSE Sourcelist
-Visual Dashboard (desktop):
+### JHU CSSE Links
+Visual Dashboard (_desktop_):
 https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
 
-Visual Dashboard (mobile):
+Visual Dashboard (_mobile_):
 http://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c06e61
 
 Lancet Article:
@@ -33,7 +33,7 @@ Lancet Article:
 Provided by Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE):
 https://systems.jhu.edu/
 
-Data Sources:
+### Data Sources:
 * World Health Organization (WHO): https://www.who.int/ 
 * DXY.cn. Pneumonia. 2020. http://3g.dxy.cn/newh5/view/pneumonia.  
 * BNO News: https://bnonews.com/index.php/2020/02/the-latest-coronavirus-cases/  
