@@ -14,7 +14,7 @@
 - Publications: **Unlikely**
 - Results explorer: **Don't even know what that is**
 
-It is inconceivable that this pandemic will not leave the most vulnerable and oppressed peoples of our society in utter destitution. The national eye cannot bare but a glance at what this country is doing--or not doing--about black lives ending in unprecedented numbers. The American regard for life goes only as far as the front door, or perhaps the stop sign, but no further in this day and age. We saw it in New Orleans after Katrina, we still see it in Flint Michigan. The evidence has been building for generations upon generations. Somewhere between the Unite States of America and the Devil is a reckoning coming.
+It is inconceivable that this pandemic will not leave the most vulnerable and oppressed peoples of our society in utter destitution. The national eye cannot bare but a glance at what this country is doing--or not doing--about black lives ending in unprecedented numbers. The American regard for life goes only as far as the front door, or perhaps the stop sign, but no further in this day and age. We saw it in New Orleans after Katrina, we still see it in Flint Michigan. The evidence has been building for generations upon generations.
 
 ## Repository Origin
 This repository was forked on April 10, 2020 from the _2019 Novel Coronavirus Visual Dashboard_ operated by the Johns Hopkins University Center for Systems Science and Engineering (JHU CSSE) with support from ESRI Living Atlas Team and the Johns Hopkins University Applied Physics Lab (JHU APL), ©2020 Johns Hopkins University, all rights reserved.
